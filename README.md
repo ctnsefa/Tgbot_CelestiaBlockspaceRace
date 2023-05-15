@@ -60,4 +60,6 @@ python3 app.py
 ## And it should output this . <br/> <br/>
 <img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace-telegrambot/main/txhash_bot.png"> <br/> <br/>
 ## After entering /explorer command, explorer will exit and you can check txhash. <br/> <br/>
-<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace-telegrambot/main/txhash_bot.png"> <br/> <br/>
+<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace-telegrambot/main/explorer_bot.png"> <br/> <br/>
+## And the result is successful <br/> <br/>
+<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace-telegrambot/main/success.png"> <br/> <br/>
