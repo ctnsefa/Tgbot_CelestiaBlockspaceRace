@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import requests
 import random
 
-TOKEN = "TOKEN-ID"
+TOKEN = "TELEGRAM-TOKEN-ID"
 
 def generate_random_hex(length=16):
     """Generates a random hex string."""
