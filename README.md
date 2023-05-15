@@ -55,8 +55,9 @@ python3 app.py
 #### Don't forget to open the port! :26659 <br/> <br/>
 # TELEGRAM BOT ADRESS : - https://web.telegram.org/k/#@pfb12_bot
  <br/> <br/>
-## Enter the server ip <br/> <br/>
-<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace/main/payforblab%20ui.png" width="auto"> <br/> <br/>
-## Port :26659 <br/> <br/>
+## Give the bot a /start command and enter the NODE IP ADDRESS. <br/> <br/>
+<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace-telegrambot/main/start_bot.png" width="auto"> <br/> <br/>
 ## And it should output this . <br/> <br/>
-<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace/main/txhash.png" width="auto"> <br/> <br/>
+<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace-telegrambot/main/txhash_bot.png"> <br/> <br/>
+## After entering /explorer command, explorer will exit and you can check txhash. <br/> <br/>
+<img src="https://raw.githubusercontent.com/ctnsefa/celestia-blockspacerace-telegrambot/main/txhash_bot.png"> <br/> <br/>
